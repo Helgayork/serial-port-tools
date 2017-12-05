@@ -17,4 +17,4 @@ To create virtual serial port follow the step-by-step guide:
 
 5. Rehash the above strides the same number of times as expected to make required number of ports.
 
-**[How to craete virtual COM port](https://www.eltima.com/create-virtual-serial-port.html)** guide will help you to manage virtual serial port pairs in your system.
+**[How to create virtual COM port](https://www.eltima.com/create-virtual-serial-port.html)** guide will help you to manage virtual serial port pairs in your system.
