@@ -14,7 +14,7 @@
 
 * Model the data transfer to a serial device to get an idea of what its reaction to specified commands will be.
 
-![Minitor and Test Modbus data](https://www.eltima.com/imgnew/products/spm/splash/screen.png)
+![Monitor and Test Modbus data](https://www.eltima.com/imgnew/products/spm/splash/screen.png)
 
 **[Download Modbus Test Software](https://www.eltima.com/com-port-monitor-download.html)**
 
