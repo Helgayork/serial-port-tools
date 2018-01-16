@@ -24,3 +24,5 @@ Unfortunately, Windows OS offers no special tools when it comes to analyzing COM
 * Emulate data transfer to a serial device. This can be achieved by using Serial Port’s Terminal mode feature – you will be able to send data on behalf of monitored application; it supports a range of formats (hexadecimal, string, decimal, binary, mixed). Thus, you can check the reaction of the monitored serial device to certain specified commands.
 
 Learn more about **[RS485 protocol Analyzer](https://www.eltima.com/rs485-analyzer.html)** which is used in programming and debugging of RS485 port communication.
+
+Find out more information **[how to read serial port data](https://www.eltima.com/article/serial-port-reader-utilities/)**.
