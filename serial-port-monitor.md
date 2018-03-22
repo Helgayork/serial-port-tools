@@ -12,3 +12,6 @@ With **Serial Port Monitor** users can monitor and analyze serial port activity 
 **[Download Serial Port Analyzer](https://www.eltima.com/com-port-monitor-download.html)**
 
 ![RS232 Activity Log](https://www.eltima.com/imgnew/products/spm/splash/screen.png)
+
+Lear more about [Advanced Serial Port Monitor](https://www.eltima.com/advanced-serial-port-monitor/) - a professional utility to read and record COM port data. Find out how to create serial port monitor connection and use Advanced Serial Port Monitor for Windows for sniffing serial interfaces.
+
