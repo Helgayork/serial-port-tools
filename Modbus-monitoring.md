@@ -26,7 +26,7 @@
 
 **SimplyModbusMaster** – is capable of simulating a Modbus ASCII Master or a Modbus RTU. It makes information available in a single window.
 
-**Modbus ASCII Slave and Modbus RTU Slave software** – can work as a Modbus ASCII Slave,   a Modbus RTU Slave and monitors master requests. There’s a window dedicated to entering and showing the settings, while the second window is for the data.
+**Modbus ASCII Slave and Modbus RTU Slave software** – can work as a Modbus ASCII Slave,   a [Modbus RTU Slave](https://www.eltima.com/article/advanced-modbus-rtu-guide/) and monitors master requests. There’s a window dedicated to entering and showing the settings, while the second window is for the data.
 
 **Modbus Poll** boasts of a multiple document interface and also does the job of simulating a Modbus master. This Modbus monitoring software is capable of monitoring multiple slaves or/and data areas at the same time. Developers have the luxury of creating and sending their own test strings via the "test center" and access the result in hexadecimal format.
 
