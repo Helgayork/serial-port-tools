@@ -1,7 +1,7 @@
 **Serial port test software to analyze any RS232 device activity**
 ==================================================================
 
-To work effectively with serial ports, there is the need to periodically analyze and monitor the activity of serial port. There might be the need for you to view data received and sent by RS232/422/485 ports. It allows for convenient and easy tracking of problems if they come up; it’s also immensely beneficial when it comes to setting up equipment.
+To work effectively with serial ports, there is the need to periodically analyze and monitor the activity of serial port. There might be the need for you to view data received and sent by RS232/422/485 ports. It allows convenient and easy tracking of problems if they come up; it’s also immensely beneficial when it comes to setting up equipment.
 
 Unfortunately, Windows OS offers no special tools when it comes to analyzing COM ports. However, there is no cause for concern, as there’s an efficient software capable of checking, analyzing and monitoring the activity of COM port.
 
