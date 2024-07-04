@@ -8,7 +8,7 @@ Unfortunately, Windows OS offers no special tools when it comes to analyzing COM
 **Serial Port Monitor – Serial Port Activity Analysis Software**
 ----------------------------------------------------------------
 
-**[Serial Port Testing software](https://www.eltima.com/rs232-testing-software/)** refers to special software developed by Eltima Software. It allows one to monitor, display, keep logs and study the activity of RS232/422/485 COM ports. When it comes to tracking problems that may come up during an application or driver development process, optimizing and testing serial devices, etc, there’s a stress-free way to achieve this.
+**[Serial Port Testing software](https://www.virtual-serial-port.org/products/serial-port-tester/)** refers to special software developed by Eltima Software. It allows one to monitor, display, keep logs and study the activity of RS232/422/485 COM ports. When it comes to tracking problems that may come up during an application or driver development process, optimizing and testing serial devices, etc, there’s a stress-free way to achieve this.
 
 ![RS232 Testing Software](https://www.eltima.com/imgnew/products/spm/splash/screen.png)
 
